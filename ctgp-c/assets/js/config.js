@@ -15,5 +15,6 @@ export const CORS_PROXIES = [
 export const GAMEMODE_MAP = {
     // "10": "Retros VS", // This is a debug region. I only use it for testing.
     // "11": "Retros OTT", // Further testing Regions
-    "669": "Regular VS"
+    "668": "Regular VS"
+    "669": "Online Time Trials"
 }; 
